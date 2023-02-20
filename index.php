@@ -10,6 +10,7 @@ function.
 
 
 echo "Ans No 1.............";
+
 echo "\n";
 
 
